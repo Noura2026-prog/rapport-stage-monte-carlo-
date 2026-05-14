@@ -23,7 +23,7 @@ Comparer la richesse et la précision d'une simulation Monte Carlo couplée à l
   - Tableau de synthèse final
 
 ## Fichiers principaux
-- `Monte_Carlo_IA_H3.ipynb` : notebook complet (code + résultats + figures)
+- `Monte_Carlo.ipynb` : notebook complet (code + résultats + figures)
 - Figure exportée : `OCP_H3_Validation_Finale.png` (11 sous-graphiques comparatifs)
 
 ## Exécution
